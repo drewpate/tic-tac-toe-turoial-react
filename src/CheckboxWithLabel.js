@@ -4,7 +4,7 @@ const CheckboxWithLabel = ({ labelOn, labelOff }) => {
   const [isChecked, setIsChecked] = useState(false);
 
   const onChange = () => {
-    setIsChecked(isChecked);
+    setIsChecked(!isChecked);
   };
 
   return (
