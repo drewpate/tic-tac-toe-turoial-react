@@ -1,4 +1,7 @@
+<img width="660" alt="Screen Shot 2021-12-27 at 9 37 08 PM" src="https://user-images.githubusercontent.com/82974106/147521796-c1fb7e33-f12b-4854-9339-ec831114b989.png">
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -48,6 +51,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
 
 ### Analyzing the Bundle Size
 
